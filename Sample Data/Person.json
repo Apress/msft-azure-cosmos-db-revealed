@@ -1,0 +1,42 @@
+{
+	"firstName": "Jose",
+	"lastName": "Guay",
+	"children":[
+		{
+			"name": "Sara",
+			"age": "16",
+			"school":{
+				"grade": "11",
+				"classes":[
+					{
+						"name": "Pre-Calculus"
+					},
+					{
+						"name": "US History"
+					},
+					{
+						"name": "Physics"
+					}
+				]
+			}
+		},
+		{
+			"name": "Samantha",
+			"age": "7",
+			"school":{
+				"grade": "2",
+				"classes":[
+					{
+						"name": "Math"
+					},
+					{
+						"name": "Reading"
+					},
+					{
+						"name": "Music"
+					}
+				]
+			}
+		}
+	]
+}
